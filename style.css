@@ -1,0 +1,14 @@
+figure img{
+    width: 150px;
+}
+figure{
+    margin: 40px auto;
+    text-align: center;
+    border: 5 solid black;
+    box-shadow:  1px 1px 5px black;
+    border-radius: 5px;
+    width: max-content;
+}
+figcaption{
+    margin-top: 10px;
+}
